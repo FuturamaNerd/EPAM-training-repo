@@ -1,4 +1,5 @@
-This is my repository for the practice problems in the introductory phase of EPAM's softwhere testing training program
+This is my repository for the practice problems in the introductory phase of EPAM's softwhere testing training program.
+
 It contains:
 
 preliminary research into software testing
